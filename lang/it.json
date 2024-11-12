@@ -1,0 +1,16 @@
+{
+    "Welcome": "Benvenuto",
+    "Documentation": "Documentazione",
+    "Laravel has wonderful documentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.": "Laravel ha una meravigliosa documentazione che copre ogni aspetto del framework. Che tu sia un principiante o abbia esperienza precedente con Laravel, ti consigliamo di leggere la nostra documentazione dall'inizio alla fine.",
+    "Laracasts": "Laracasts",
+    "Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check them out, see for yourself, and massively level up your development skills in the process.": "Laracasts offre migliaia di video tutorial sullo sviluppo con Laravel, PHP e JavaScript. Dai un'occhiata, scoprili da solo e migliora massivamente le tue competenze di sviluppo nel processo.",
+    "Laravel News": "Laravel News",
+    "Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.": "Laravel News è un portale e una newsletter gestiti dalla comunità che aggrega tutte le ultime e più importanti notizie nell'ecosistema Laravel, inclusi nuovi rilasci di pacchetti e tutorial.",
+    "Vibrant Ecosystem": "Ecosistema Vibrante",
+    "Laravel's robust library of first-party tools and libraries, such as :tools, help you take your projects to the next level. Pair them with powerful open source libraries like :libraries, and more.": "La robusta libreria di strumenti e librerie first-party di Laravel, come :tools, ti aiutano a portare i tuoi progetti al livello successivo. Combinali con potenti librerie open source come :libraries, e altro ancora.",
+    "Dashboard": "Dashboard",
+    "Log in": "Accedi",
+    "Register": "Registrati",
+    "help you take your projects to the next level. Pair them with powerful open source libraries like": "ti aiutano a portare i tuoi progetti al livello successivo. Combinali con potenti librerie open source come"
+}
+
